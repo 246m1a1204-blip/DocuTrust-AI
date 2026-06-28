@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+uploads/
+chunks.json
+faiss_index.index
+
+node_modules/
+dist/
+
+.vscode/
+
+*.log
