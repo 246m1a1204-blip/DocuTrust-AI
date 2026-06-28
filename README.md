@@ -173,6 +173,9 @@ Authorization: Bearer <JWT_TOKEN>
 
 ## Screenshots
 
+## Register 
+<img src="screenshots/register.png" width="800">
+
 ### Login
 
 <img src="screenshots/login.png" width="800">
